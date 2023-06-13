@@ -2,6 +2,7 @@
 //!
 //! See [`UserConfig::parse_file`] in order to retrieve such configuration
 //! settings from the default file.
+//! https://google.com
 
 use std::collections::BTreeMap;
 use std::fs;
